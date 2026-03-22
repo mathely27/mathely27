@@ -15,46 +15,48 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Mathely</h1>
-<h3 align="center">🚀 Full Stack Developer | Hackathon Enthusiast</h3>
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=MATHELY&fontSize=60&color=0:00ff99,100:0066ff&stroke=ffffff"/>
+</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&size=22&center=true&vCenter=true&width=500&lines=Building+Real+World+Projects;Full+Stack+Developer;Cybersecurity+Explorer;Hackathon+Lover" />
+  <b>⚡ Code. Create. Break. Learn. Repeat.</b>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750927-4b7f6b76-7c7a-4c3b-9d5b-cc7f2d7c5b65.gif" width="80%">
 </p>
 
 ---
 
-## 🚀 About Me
-- 💻 First-year student building real-world projects  
-- ⚡ Full Stack Developer (Frontend + Backend)  
-- 🎨 UI/UX enthusiast focused on clean & modern interfaces  
-- 🔐 Exploring Cybersecurity with Kali Linux  
-- 🧠 Fast learner & problem solver  
-- 🤝 Open to collaboration & hackathons  
+## ⚡ Who Am I?
+
+💻 I don’t just learn tech — I build with it  
+🚀 Turning ideas into real-world applications  
+🧠 Strong in problem solving & logical thinking  
+🎯 Skilled across Full Stack + System Level tools  
+🔐 Exploring Cybersecurity & ethical hacking environments  
 
 ---
 
-## 🛠️ Tech Stack
+## 🧩 What I Work With
 
-### 💻 Languages
-C • Python • JavaScript  
-
-### 🌐 Web Development
-HTML • CSS • Node.js  
-
-### ⚡ Tools & Tech
-Electron • Figma • Canva • Linux (Ubuntu + Kali) • VS Code • Git  
+🧠 Languages → C • Python • JavaScript  
+🌐 Web → HTML • CSS • Node.js  
+⚙️ Tools → Electron • Git • VS Code  
+🐧 Systems → Ubuntu • Kali Linux  
+🎨 Design → Figma • Canva  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mathely27&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=mathely27&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathely27&layout=compact&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathely27&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -62,47 +64,54 @@ Electron • Figma • Canva • Linux (Ubuntu + Kali) • VS Code • Git
 ## 🔥 Streak Stats
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=mathely27&theme=radical" />
+<img src="https://streak-stats.demolab.com?user=mathely27&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🧠 LeetCode Stats 🚀
+## 🧠 LeetCode Arena 🟢
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/YOUR-LEETCODE?theme=dark&font=Baloo&ext=heatmap" />
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mathely27&theme=radical&no-frame=true&row=1" />
+<img src="https://leetcard.jacoblin.cool/YOUR-LEETCODE?theme=forest&font=Baloo&ext=heatmap" />
 </p>
 
 ---
 
 ## 🚀 Featured Project
 
-### 🎨 AI Powered Canvas
+### 🎨 AI Powered Canvas  
 Interactive drawing app built using Python 🎯  
 
 🔗 https://github.com/mathely27/AI-Powered-Canvas  
 
 ---
 
-## 🌐 Let's Connect 🤝
+## 🐍 Contribution Flow
 
 <p align="center">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a>
-<a href="https://leetcode.com/YOUR-LEETCODE">
-<img src="https://skillicons.dev/icons?i=leetcode" height="40"/>
-</a>
-<a href="mailto:mathelu27@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-</a>
+<img src="https://github.com/mathely27/mathely27/blob/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
 
-## ⚡ Fun Fact
-💡 I turn ideas into real-world applications & love building things that actually solve problems 🚀
+## 🌐 Reach Out & Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-00ff99?style=for-the-badge&logo=linkedin&logoColor=black"/>
+</a>
+
+<a href="https://leetcode.com/YOUR-LEETCODE">
+  <img src="https://img.shields.io/badge/LeetCode-Solve-00ff99?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="mailto:mathelu27@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Drop%20a%20Message-00ff99?style=for-the-badge&logo=gmail&logoColor=black"/>
+</a>
+
+</p>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:0066ff&height=120&section=footer"/>
