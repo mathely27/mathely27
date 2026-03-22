@@ -14,71 +14,69 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00FF99&center=true&vCenter=true&width=500&lines=Hi,+I'm+Mathely+👋;Full+Stack+Developer;Hackathon+Enthusiast;Cybersecurity+Explorer" alt="Typing SVG" />
-</h1>
+
+
+
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Building_the_Future-00FF99?style=flat-square" />
-  <img src="https://img.shields.io/badge/Location-Earth-blue?style=flat-square" />
-  <img src="https://img.shields.io/github/followers/mathely27?label=Followers&style=flat-square&color=6e5494" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=120&section=header&text=MATHELY&fontSize=70&fontAlignY=50&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <strong>Full Stack Developer • Cybersecurity Explorer • Hackathon Competitor</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/First--Year_CS-000000?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/UI/UX_Focused-000000?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 ---
 
-### ⚡ Terminal.exe
-- 👨‍💻 **Role:** First-year Dev turning caffeine into scalable code.
-- 🛡️ **Interests:** Pentesting with **Kali Linux** & crafting intuitive UI/UX.
-- 🏆 **Goal:** Dominating the next Hackathon circuit.
-- 💬 **Ask me about:** JavaScript, Python, or why Linux is superior.
+### ⚡ Technical Overview
+> **Building digital resilience and high-performance applications.** > Currently focused on mastering the full-stack lifecycle and exploring network vulnerabilities.
+
+- 🔭 **Current Project:** Architecting [AI-Powered Canvas](https://github.com/mathely27/AI-Powered-Canvas)
+- 🧪 **Researching:** Penetration Testing & Secure Authentication Systems
+- 🏁 **Active on:** LeetCode (Daily Problem Solving)
 
 ---
 
-### 🛠️ Tech Forge
-
-| Category | Tools & Languages |
+### 🛠️ Core Stack
+| Layer | Tech |
 | :--- | :--- |
-| **Languages** | ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
-| **Web Stack** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) |
-| **Tools** | ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) ![Electron](https://img.shields.io/badge/-Electron-47848F?logo=electron&logoColor=white) |
+| **Logic** | `Python` `C` `JavaScript (ES6+)` `Node.js` |
+| **Interface** | `HTML5` `CSS3` `Electron` `Figma` |
+| **Environment** | `Linux (Kali/Ubuntu)` `Git` `Terminal` |
 
 ---
 
-### 🚀 Featured Project
-> [!IMPORTANT]
-> **[AI-Powered Canvas](https://github.com/mathely27/AI-Powered-Canvas)**
-> An interactive drawing application built with Python. Bridging the gap between terminal execution and real-time visual creativity.
-
----
-
-### 📊 System Diagnostics
+### 📈 Engineering Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mathely27&show_icons=true&theme=tokyonight&border_radius=10" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathely27&layout=compact&theme=tokyonight&border_radius=10" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mathely27&show_icons=true&theme=transparent&title_color=000000&text_color=555555&icon_color=000000&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathely27&layout=compact&theme=transparent&title_color=000000&text_color=555555&hide_border=true" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mathely27&theme=tokyonight&border_radius=10" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=mathely27&theme=transparent&color=000000&hide_border=true" width="100%" />
 </p>
 
 ---
 
-### 🧠 LeetCode Journey
+### 🧠 Competitive Programming
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR-LEETCODE?theme=dark&font=Fira%20Code&ext=heatmap" width="100%" />
-</p>
-
----
-
-### 🤝 Connect with the Developer
-<p align="center">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:mathelu27@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://leetcode.com/YOUR-LEETCODE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <img src="https://leetcard.jacoblin.cool/YOUR-LEETCODE?theme=dark&font=Inter&ext=heatmap" width="100%" />
 </p>
 
 ---
 
 <p align="center">
-  <i>"The best way to predict the future is to code it."</i>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><b>LinkedIn</b></a> • 
+  <a href="mailto:mathelu27@gmail.com"><b>Email</b></a> • 
+  <a href="https://leetcode.com/YOUR-LEETCODE"><b>LeetCode</b></a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mathely27/mathely27/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
