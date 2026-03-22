@@ -15,57 +15,39 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 <h1 align="center">Hi 👋, I'm Mathely</h1>
-<h3 align="center">Full Stack Developer | Hackathon Enthusiast</h3>
+<h3 align="center">🚀 Full Stack Developer | Hackathon Enthusiast</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&size=22&center=true&vCenter=true&width=500&lines=Building+Real+World+Projects;Full+Stack+Developer;Cybersecurity+Explorer;Hackathon+Lover" />
+</p>
 
 ---
 
 ## 🚀 About Me
-- 💻 First-year student passionate about building real-world projects  
+- 💻 First-year student building real-world projects  
 - ⚡ Full Stack Developer (Frontend + Backend)  
-- 🎨 UI/UX enthusiast with a focus on clean experiences  
-- 🧠 Exploring Cybersecurity using Kali Linux  
-- 🚀 Interested in Hackathons & Collaboration  
-
----
-
-## 🌐 Connect With Me
-<p align="left">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-</a>
-<a href="https://leetcode.com/YOUR-LEETCODE" target="blank">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" />
-</a>
-<a href="mailto:mathelu27@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
-</a>
-</p>
+- 🎨 UI/UX enthusiast focused on clean & modern interfaces  
+- 🔐 Exploring Cybersecurity with Kali Linux  
+- 🧠 Fast learner & problem solver  
+- 🤝 Open to collaboration & hackathons  
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c)
-![Python](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+C • Python • JavaScript  
 
 ### 🌐 Web Development
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-![Node.js](https://img.shields.io/badge/Node.js-darkgreen?style=for-the-badge&logo=node.js)
+HTML • CSS • Node.js  
 
-### ⚡ Tools & Technologies
-![Electron](https://img.shields.io/badge/Electron-black?style=for-the-badge&logo=electron)
-![Figma](https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=figma)
-![Canva](https://img.shields.io/badge/Canva-blue?style=for-the-badge&logo=canva)
-![Linux](https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux)
+### ⚡ Tools & Tech
+Electron • Figma • Canva • Linux (Ubuntu + Kali) • VS Code • Git  
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=mathely27&show_icons=true&theme=radical" />
@@ -85,10 +67,14 @@ Here are some ideas to get you started:
 
 ---
 
-## 🧠 LeetCode Stats
+## 🧠 LeetCode Stats 🚀
 
 <p align="center">
 <img src="https://leetcard.jacoblin.cool/YOUR-LEETCODE?theme=dark&font=Baloo&ext=heatmap" />
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=mathely27&theme=radical&no-frame=true&row=1" />
 </p>
 
 ---
@@ -96,11 +82,27 @@ Here are some ideas to get you started:
 ## 🚀 Featured Project
 
 ### 🎨 AI Powered Canvas
-An interactive drawing application built using Python, enabling real-time sketching and executed via terminal.
+Interactive drawing app built using Python 🎯  
 
-🔗 https://github.com/mathely27/AI-Powered-Canvas
+🔗 https://github.com/mathely27/AI-Powered-Canvas  
+
+---
+
+## 🌐 Let's Connect 🤝
+
+<p align="center">
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+<a href="https://leetcode.com/YOUR-LEETCODE">
+<img src="https://skillicons.dev/icons?i=leetcode" height="40"/>
+</a>
+<a href="mailto:mathelu27@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+</a>
+</p>
 
 ---
 
 ## ⚡ Fun Fact
-I enjoy turning ideas into real-world applications and constantly exploring new technologies 🚀
+💡 I turn ideas into real-world applications & love building things that actually solve problems 🚀
