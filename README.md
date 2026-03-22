@@ -29,89 +29,83 @@ Here are some ideas to get you started:
 
 ---
 
-## ⚡ Who Am I?
+<h1 align="center">
+  Hey, I'm <span style="color:#4F46E5;">Mathely</span> 👋
+</h1>
 
-💻 I don’t just learn tech — I build with it  
-🚀 Turning ideas into real-world applications  
-🧠 Strong in problem solving & logical thinking  
-🎯 Skilled across Full Stack + System Level tools  
-🔐 Exploring Cybersecurity & ethical hacking environments  
-
----
-
-## 🧩 What I Work With
-
-🧠 Languages → C • Python • JavaScript  
-🌐 Web → HTML • CSS • Node.js  
-⚙️ Tools → Electron • Git • VS Code  
-🐧 Systems → Ubuntu • Kali Linux  
-🎨 Design → Figma • Canva  
+<h3 align="center">
+  Building things that actually work ⚡
+</h3>
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 About Me
+
+- 💻 I like turning ideas into real working projects  
+- ⚙️ Comfortable across frontend, backend & system tools  
+- 🔐 Currently exploring cybersecurity & Linux environments  
+- 🧩 Strong focus on logic, problem solving & clean execution  
+- 🚀 Always up for building, learning, and collaborating  
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**  
+C • Python • JavaScript  
+
+**Web**  
+HTML • CSS • Node.js  
+
+**Tools & Systems**  
+Git • VS Code • Electron • Ubuntu • Kali Linux  
+
+**Design**  
+Figma • Canva  
+
+---
+
+## 📊 GitHub
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mathely27&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mathely27&show_icons=true&theme=default" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathely27&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathely27&layout=compact&theme=default" />
 </p>
 
 ---
 
-## 🔥 Streak Stats
+## 🔥 Activity
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=mathely27&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=mathely27&theme=default" />
 </p>
 
 ---
 
-## 🧠 LeetCode Arena 🟢
+## 🧠 LeetCode
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/YOUR-LEETCODE?theme=forest&font=Baloo&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/YOUR-LEETCODE?theme=light&font=Karma" />
 </p>
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Project
 
-### 🎨 AI Powered Canvas  
-Interactive drawing app built using Python 🎯  
+**AI Powered Canvas**  
+A Python-based interactive drawing app  
 
 🔗 https://github.com/mathely27/AI-Powered-Canvas  
 
 ---
 
-## 🐍 Contribution Flow
+## 🌐 Connect
 
 <p align="center">
-<img src="https://github.com/mathely27/mathely27/blob/output/github-contribution-grid-snake.svg"/>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a> •
+  <a href="https://leetcode.com/YOUR-LEETCODE">LeetCode</a> •
+  <a href="mailto:mathelu27@gmail.com">Email</a>
 </p>
-
----
-
-## 🌐 Reach Out & Connect
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-00ff99?style=for-the-badge&logo=linkedin&logoColor=black"/>
-</a>
-
-<a href="https://leetcode.com/YOUR-LEETCODE">
-  <img src="https://img.shields.io/badge/LeetCode-Solve-00ff99?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="mailto:mathelu27@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Drop%20a%20Message-00ff99?style=for-the-badge&logo=gmail&logoColor=black"/>
-</a>
-
-</p>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:0066ff&height=120&section=footer"/>
