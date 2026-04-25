@@ -52,13 +52,13 @@
 - 💡 Learning **new technologies** every day
 - 🤝 Open to **collaborations** on innovative projects
 - 💬 Ask me about **Python, JavaScript, Web Dev**
-- ⚡ Fun fact: **I debug code faster than I debug life** 🐛
+<!--- ⚡ Fun fact: **I debug code faster than I debug life** 🐛-->
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Toolkit
 
 <div align="center">
 
