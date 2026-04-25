@@ -4,24 +4,25 @@
 
 # 💫 About Me
 
-```json
-{
-  "name"       : "Mathely Mittal",
-  "role"       : "First Year CS Student 🎓",
-  "location"   : "India 🇮🇳",
-  "languages"  : ["Python", "C", "JavaScript", "SQL"],
-  "tools"      : ["Node.js", "Electron", "Linux", "Git"],
-  "design"     : ["Figma", "Canva"],
-  "exploring"  : ["Cybersecurity 🔐", "Web3 🌐", "APIs ⚡"],
-  "status"     : {
-    "learning"      : "Data Structures & Algorithms",
-    "building"      : "Real-world projects",
-    "participating" : "Hackathons 🏆",
-    "goal"          : "Creating impact through code 🚀"
-  },
-  "message"    : "Thanks for visiting! Let's build something amazing 🚀"
-}
-```
+### 👤 &nbsp;Mathely Mittal &nbsp;·&nbsp; First Year CS Student 🎓 &nbsp;·&nbsp; India 🇮🇳
+
+<br/>
+
+🧠 &nbsp;**Currently mastering** &nbsp;→&nbsp; Data Structures & Algorithms
+🔨 &nbsp;**Building** &nbsp;→&nbsp; Real-world full-stack projects
+🏆 &nbsp;**Hustling at** &nbsp;→&nbsp; Hackathons & open source
+🎯 &nbsp;**Mission** &nbsp;→&nbsp; Creating impact through code
+
+<br/>
+
+💻 &nbsp;**Languages I speak** &nbsp;→&nbsp; Python · C · JavaScript · SQL
+🛠️ &nbsp;**Tools I trust** &nbsp;→&nbsp; Node.js · Electron · Linux · Git
+🎨 &nbsp;**Design with** &nbsp;→&nbsp; Figma · Canva
+🔭 &nbsp;**Exploring** &nbsp;→&nbsp; Cybersecurity 🔐 · Web3 🌐 · APIs ⚡
+
+<br/>
+
+> *"Thanks for visiting! Let's build something amazing 🚀"*
 
 <br/>
 
@@ -104,11 +105,15 @@
 
 ---
 
-## 🏆 Achievements
+## 🏅 Milestones & Badges
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mathely27&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=7&margin-w=15&margin-h=15" />
+![Commits](https://img.shields.io/badge/Total%20Commits-Growing%20Daily-brightgreen?style=for-the-badge&logo=github)
+![Hackathons](https://img.shields.io/badge/Hackathons-Actively%20Participating-orange?style=for-the-badge&logo=rocket)
+![DSA](https://img.shields.io/badge/DSA-LeetCode%20Grinder-yellow?style=for-the-badge&logo=leetcode)
+![Security](https://img.shields.io/badge/Cybersecurity-Kali%20Linux%20Explorer-blue?style=for-the-badge&logo=kalilinux)
+![OpenSource](https://img.shields.io/badge/Open%20Source-Contributor-purple?style=for-the-badge&logo=git)
 
 </div>
 
@@ -134,22 +139,30 @@
 
 ---
 
-## 🎯 2025 Developer Journey
+## 🌐 Tech Radar 2025
 
 <div align="center">
 
-| 🎯 Goal | 📊 Status |
-|--------|----------|
-| Solve 250+ LeetCode Problems | 🔥 In Progress |
-| Master React + Node.js + MongoDB | 📖 Learning |
-| Contribute to Open Source | 🚀 Started |
-| Participate in 15+ Hackathons | 🏆 Active |
-| Learn Cloud (AWS/Azure) | 📅 Upcoming |
-| Build Strong Dev Network | 🤝 Growing |
+> What I'm learning, building & watching in the tech world right now
 
 <br/>
 
-> *"Every expert was once a beginner. Every pro was once an amateur."*
+### 🔥 Currently Hands-On
+![React](https://img.shields.io/badge/React-Learning-61DAFB?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-Building-43853D?style=flat-square&logo=node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-Exploring-47A248?style=flat-square&logo=mongodb)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-Practicing-557C94?style=flat-square&logo=kalilinux)
+
+### 🚀 On My Radar Next
+![Docker](https://img.shields.io/badge/Docker-Up%20Next-2496ED?style=flat-square&logo=docker)
+![TypeScript](https://img.shields.io/badge/TypeScript-Up%20Next-3178C6?style=flat-square&logo=typescript)
+![AWS](https://img.shields.io/badge/AWS-Watching-FF9900?style=flat-square&logo=amazonaws)
+![GraphQL](https://img.shields.io/badge/GraphQL-Curious-E10098?style=flat-square&logo=graphql)
+
+### 🤖 Excited About
+![AI/ML](https://img.shields.io/badge/AI%2FML-Fascinated-blueviolet?style=flat-square&logo=openai)
+![Web3](https://img.shields.io/badge/Web3-Exploring-F16822?style=flat-square&logo=ethereum)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Passionate-red?style=flat-square&logo=hackthebox)
 
 </div>
 
@@ -188,3 +201,4 @@
 ![Profile Last Updated](https://img.shields.io/github/last-commit/mathely27/mathely27?label=Last%20Updated&style=flat-square)
 
 </div>
+
