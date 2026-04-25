@@ -4,30 +4,23 @@
 
 # 💫 About Me
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Mathely Mittal"
-        self.year = "First Year CS Student"
-        self.location = "India 🇮🇳"
-        self.code = ["Python", "C", "JavaScript", "SQL"]
-        self.tools = ["Node.js", "Electron", "Linux", "Git"]
-        self.design = ["Figma", "Canva"]
-        self.exploring = ["Cybersecurity with Kali Linux", "Web3", "APIs"]
-
-    def current_status(self):
-        return {
-            "learning": "Data Structures & Algorithms",
-            "building": "Real-world projects",
-            "participating": "Hackathons",
-            "goal": "Creating impact through code"
-        }
-
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something amazing 🚀")
-
-me = Developer()
-me.say_hi()
+```json
+{
+  "name"       : "Mathely Mittal",
+  "role"       : "First Year CS Student 🎓",
+  "location"   : "India 🇮🇳",
+  "languages"  : ["Python", "C", "JavaScript", "SQL"],
+  "tools"      : ["Node.js", "Electron", "Linux", "Git"],
+  "design"     : ["Figma", "Canva"],
+  "exploring"  : ["Cybersecurity 🔐", "Web3 🌐", "APIs ⚡"],
+  "status"     : {
+    "learning"      : "Data Structures & Algorithms",
+    "building"      : "Real-world projects",
+    "participating" : "Hackathons 🏆",
+    "goal"          : "Creating impact through code 🚀"
+  },
+  "message"    : "Thanks for visiting! Let's build something amazing 🚀"
+}
 ```
 
 <br/>
