@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,11,20&text=नमस्ते%20%F0%9F%99%8F&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=I'm%20a%20First-Year%20Developer%20Building%20the%20Future&descAlignY=55&descSize=20" width="100%"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,11,20&text=नमस्ते%20%F0%9F%99%8F&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=I'm%20a%20First-Year%20Developer%20Building%20the%20Future&descAlignY=55&descSize=20" width="100%"/> -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0d1117,50:1a1b6e,100:4a00e0&text=नमस्ते%20%F0%9F%99%8F&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=I'm%20a%20First-Year%20Developer%20Building%20the%20Future&descAlignY=55&descSize=20" width="100%"/>
+
 
 # 💫 About Me
 
