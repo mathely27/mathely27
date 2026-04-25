@@ -1,6 +1,6 @@
 <div align="center">
-  
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,11,20&text=नमस्ते%20%F0%9F%99%8F&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=I'm%20a%20First-Year%20Developer%20Building%20the%20Future&descAlignY=55&descSize=20" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,11,20&text=नमस्ते%20%F0%9F%99%8F&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=I'm%20a%20First-Year%20Developer%20Building%20the%20Future&descAlignY=55&descSize=20" width="100%"/>
 
 # 💫 About Me
 
@@ -14,7 +14,7 @@ class Developer:
         self.tools = ["Node.js", "Electron", "Linux", "Git"]
         self.design = ["Figma", "Canva"]
         self.exploring = ["Cybersecurity with Kali Linux", "Web3", "APIs"]
-        
+
     def current_status(self):
         return {
             "learning": "Data Structures & Algorithms",
@@ -22,7 +22,7 @@ class Developer:
             "participating": "Hackathons",
             "goal": "Creating impact through code"
         }
-    
+
     def say_hi(self):
         print("Thanks for visiting! Let's build something amazing 🚀")
 
@@ -37,7 +37,7 @@ me.say_hi()
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blueviolet&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=mathely27&label=Profile%20Views&color=blueviolet&style=flat-square" />
 
 </div>
 
@@ -100,7 +100,7 @@ me.say_hi()
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
+
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mathely27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mathely27&theme=tokyonight&hide_border=true" />
 
@@ -114,7 +114,7 @@ me.say_hi()
 ## 🏆 Achievements
 
 <div align="center">
-  
+
 <img src="https://github-profile-trophy.vercel.app/?username=mathely27&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=7&margin-w=15&margin-h=15" />
 
 </div>
@@ -125,7 +125,7 @@ me.say_hi()
 
 <div align="center">
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Mathely_27?theme=dark&font=Ubuntu&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Ubuntu&ext=heatmap)
 
 </div>
 
@@ -135,61 +135,30 @@ me.say_hi()
 
 <div align="center">
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mathely27&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mathely27&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## 🎯 2024-25 Goals
+## 🎯 2025 Developer Journey
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<div align="center">
 
-```diff
-+ Solve 250+ LeetCode problems
-+ Build 20+ real-world projects
-+ Contribute to 10+ open-source repositories
-+ Participate in 15+ hackathons
-+ Master React, Node.js & MongoDB
-+ Learn cloud technologies (AWS/Azure)
-+ Build a strong developer network
-```
+| 🎯 Goal | 📊 Status |
+|--------|----------|
+| Solve 250+ LeetCode Problems | 🔥 In Progress |
+| Master React + Node.js + MongoDB | 📖 Learning |
+| Contribute to Open Source | 🚀 Started |
+| Participate in 15+ Hackathons | 🏆 Active |
+| Learn Cloud (AWS/Azure) | 📅 Upcoming |
+| Build Strong Dev Network | 🤝 Growing |
 
----
+<br/>
 
-## 💼 What I'm Building
+> *"Every expert was once a beginner. Every pro was once an amateur."*
 
-<details>
-<summary>🚀 Current Projects (Click to expand)</summary>
-<br>
-
-- 🌐 **Full-Stack Web Application** - E-commerce platform with Node.js backend
-- 🔐 **Cybersecurity Tool** - Network scanner using Python
-- 📱 **Desktop App** - Productivity tool built with Electron
-- 🤖 **Automation Scripts** - Daily task automation with Python
-- 📊 **Data Visualization Dashboard** - Analytics platform with Chart.js
-
-</details>
-
-<details>
-<summary>📚 Learning Roadmap (Click to expand)</summary>
-<br>
-
-**Current Focus:**
-- Data Structures & Algorithms (LeetCode Daily)
-- System Design Fundamentals
-- React.js & State Management
-- RESTful API Development
-- Database Optimization
-
-**Next Up:**
-- TypeScript
-- GraphQL
-- Redis & Caching
-- CI/CD Pipelines
-- Kubernetes Basics
-
-</details>
+</div>
 
 ---
 
@@ -203,9 +172,9 @@ me.say_hi()
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathely-mittal-b284143b9/)
-[![LeetCode](https://img.shields.io/badge/Compete_on_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Mathely_27/)
-[![Email](https://img.shields.io/badge/Drop_me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mathely27@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LeetCode](https://img.shields.io/badge/Compete_on_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](YOUR_LEETCODE_URL)
+[![Email](https://img.shields.io/badge/Drop_me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 <br>
 
@@ -220,9 +189,9 @@ me.say_hi()
 ---
 
 <div align="center">
-  
+
 ### Show some ❤️ by starring some of my repositories!
 
-![Profile Last Updated](https://img.shields.io/github/last-commit/mathely27/mathely_27?label=Last%20Updated&style=flat-square)
+![Profile Last Updated](https://img.shields.io/github/last-commit/mathely27/mathely27?label=Last%20Updated&style=flat-square)
 
-</div><!--  -->
+</div>
