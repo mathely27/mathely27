@@ -7,7 +7,7 @@
 ```python
 class Developer:
     def __init__(self):
-        self.name = "YOUR_NAME_HERE"
+        self.name = "Mathely Mittal"
         self.year = "First Year CS Student"
         self.location = "India 🇮🇳"
         self.code = ["Python", "C", "JavaScript", "SQL"]
@@ -101,11 +101,11 @@ me.say_hi()
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mathely27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mathely27&theme=tokyonight&hide_border=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathely27&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=mathely27&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
@@ -115,7 +115,7 @@ me.say_hi()
 
 <div align="center">
   
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=7&margin-w=15&margin-h=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=mathely27&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=7&margin-w=15&margin-h=15" />
 
 </div>
 
@@ -125,7 +125,7 @@ me.say_hi()
 
 <div align="center">
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Ubuntu&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Mathely_27?theme=dark&font=Ubuntu&ext=heatmap)
 
 </div>
 
@@ -135,7 +135,7 @@ me.say_hi()
 
 <div align="center">
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mathely27&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -203,9 +203,9 @@ me.say_hi()
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![LeetCode](https://img.shields.io/badge/Compete_on_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](YOUR_LEETCODE_URL)
-[![Email](https://img.shields.io/badge/Drop_me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathely-mittal-b284143b9/)
+[![LeetCode](https://img.shields.io/badge/Compete_on_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Mathely_27/)
+[![Email](https://img.shields.io/badge/Drop_me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mathely27@gmail.com)
 
 <br>
 
@@ -223,6 +223,6 @@ me.say_hi()
   
 ### Show some ❤️ by starring some of my repositories!
 
-![Profile Last Updated](https://img.shields.io/github/last-commit/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME?label=Last%20Updated&style=flat-square)
+![Profile Last Updated](https://img.shields.io/github/last-commit/mathely27/mathely_27?label=Last%20Updated&style=flat-square)
 
 </div><!--  -->
