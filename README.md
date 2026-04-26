@@ -138,7 +138,7 @@
 
 ---
 
-## 🌐 Tech Radar 2025
+## 🌐 Tech Radar 2026
 
 <div align="center">
 
