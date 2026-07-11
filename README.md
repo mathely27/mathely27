@@ -4,7 +4,7 @@
 
 ## 💫 About Me
 
-### 👤 &nbsp;Mathely Mittal &nbsp;·&nbsp; First Year CS Student 🎓 &nbsp;·&nbsp; India 🇮🇳
+### 👤 &nbsp;Mathely Mittal &nbsp;·&nbsp; Second Year CS Student 🎓 &nbsp;·&nbsp; India 🇮🇳
 
 <br/>
 
