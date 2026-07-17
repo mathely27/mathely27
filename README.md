@@ -8,17 +8,17 @@
 <tr>
 <td width="65%">
 
-### Passionate Developer
+## Passionate Developer
 
-Building, learning, and shipping projects.
+Building, breaking, and shipping projects.
 
 </td>
 
 <td align="center">
 
-[Portfolio](https://yourportfolio.com) •
-[LinkedIn](https://linkedin.com/in/YOUR_USERNAME) •
-[LeetCode](https://leetcode.com/u/Mathely_27)
+<a href="YOUR_PORTFOLIO">Portfolio</a> •
+<a href="YOUR_LINKEDIN">LinkedIn</a> •
+<a href="https://leetcode.com/u/Mathely_27/">LeetCode</a>
 
 </td>
 </tr>
@@ -26,29 +26,44 @@ Building, learning, and shipping projects.
 
 <br>
 
-I'm a **Second-Year Computer Science Student** who enjoys building software from scratch and learning through projects.
+I enjoy building software that solves real problems and helps me learn by doing.
 
-I work with **Python, Java, JavaScript, HTML, CSS, Node.js, Express, Git, GitHub, Linux, and Kali Linux**, while exploring **Cybersecurity, Backend Development, and Open Source**.
+Currently focused on backend development, Linux, cybersecurity, hackathons, open source, and strengthening my problem-solving skills through consistent practice.
 
-Currently focused on improving my problem-solving skills, building practical applications, and participating in hackathons.
+I'm always looking for opportunities to build, collaborate, and improve.
 
 <br>
 
 ## Tech Stack ⚙️
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+<p>
+
+<img src="https://skillicons.dev/icons?i=python" height="34"/>
+<img src="https://skillicons.dev/icons?i=java" height="34"/>
+<img src="https://skillicons.dev/icons?i=js" height="34"/>
+<img src="https://skillicons.dev/icons?i=html" height="34"/>
+<img src="https://skillicons.dev/icons?i=css" height="34"/>
+<img src="https://skillicons.dev/icons?i=nodejs" height="34"/>
+<img src="https://skillicons.dev/icons?i=express" height="34"/>
+<img src="https://skillicons.dev/icons?i=git" height="34"/>
+<img src="https://skillicons.dev/icons?i=github" height="34"/>
+<img src="https://skillicons.dev/icons?i=linux" height="34"/>
+<img src="https://skillicons.dev/icons?i=mongodb" height="34"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="34"/>
+
+</p>
 
 <br>
+
+## Currently
+
+- Building personal projects
+- Participating in hackathons
+- Exploring backend development
+- Learning cybersecurity with Kali Linux
+- Solving problems on LeetCode
+
+---
 
 <div align="center">
 
