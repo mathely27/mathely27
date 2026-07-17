@@ -34,3 +34,6 @@ Currently building: more projects, deeper Linux skills, and my first open-source
 ![MongoDB](https://img.shields.io/badge/MongoDB-2d2d3a?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![VS Code](https://img.shields.io/badge/VS_Code-2d2d3a?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 ![Bash](https://img.shields.io/badge/Bash-2d2d3a?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
+
+
+https://gitstatcard.vercel.app/api/card/mathely27?theme=github-dark
