@@ -1,61 +1,54 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,11,20&text=नमस्ते%20🙏&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=I'm%20a%20Second-Year%20Developer%20Building%20the%20Future&descAlignY=55&descSize=20" />
-
-# Mathely Mittal
-
-### Passionate Developer • Second-Year Computer Science Student
-
-Building software. Learning continuously. Growing every day.
-
-<br>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathely-mittal-b284143b9/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Mathely_27/)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:2563EB,100:1D4ED8&text=नमस्ते%20🙏&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=I'm%20a%20Second-Year%20Developer%20Building%20the%20Future&descAlignY=55&descSize=20"/>
 
 </div>
 
----
+<table>
+<tr>
+<td width="65%">
 
-## About
+### Passionate Developer
 
-I'm a **Second-Year Computer Science Student** passionate about building practical software and learning through real-world projects.
+Building, learning, and shipping projects.
 
-My interests include **Software Development, Linux, Cybersecurity, Hackathons, Open Source, and Problem Solving.** I enjoy turning ideas into working applications while continuously improving my technical skills.
+</td>
 
----
+<td align="center">
 
-## Tech Stack
+[Portfolio](https://yourportfolio.com) •
+[LinkedIn](https://linkedin.com/in/YOUR_USERNAME) •
+[LeetCode](https://leetcode.com/u/Mathely_27)
 
-### Languages
+</td>
+</tr>
+</table>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<br>
 
-### Frameworks & Runtime
+I'm a **Second-Year Computer Science Student** who enjoys building software from scratch and learning through projects.
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+I work with **Python, Java, JavaScript, HTML, CSS, Node.js, Express, Git, GitHub, Linux, and Kali Linux**, while exploring **Cybersecurity, Backend Development, and Open Source**.
 
-### Tools
+Currently focused on improving my problem-solving skills, building practical applications, and participating in hackathons.
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+<br>
 
-### Currently Learning
+## Tech Stack ⚙️
 
-![DSA](https://img.shields.io/badge/DSA-Learning-blue?style=for-the-badge)
-![React](https://img.shields.io/badge/React-Learning-61DAFB?style=for-the-badge&logo=react)
-![MongoDB](https://img.shields.io/badge/MongoDB-Learning-47A248?style=for-the-badge&logo=mongodb)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 
----
+<br>
 
 <div align="center">
 
