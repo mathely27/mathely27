@@ -35,5 +35,6 @@ Currently building: more projects, deeper Linux skills, and my first open-source
 ![VS Code](https://img.shields.io/badge/VS_Code-2d2d3a?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 ![Bash](https://img.shields.io/badge/Bash-2d2d3a?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
 
+---
 
-![GitHub Stats Card](https://gitstatcard.vercel.app/api/card/mathely27)
+ ![GitHub Stats Card](https://gitstatcard.vercel.app/api/card/mathely27)
