@@ -1,74 +1,35 @@
-<div align="center">
+**CSE Student / Builder.** Coding, breaking things, and shipping projects.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:2563EB,100:1D4ED8&text=नमस्ते%20🙏&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=I'm%20a%20Second-Year%20Developer%20Building%20the%20Future&descAlignY=55&descSize=20"/>
-
-</div>
-
-<table>
-<tr>
-<td width="65%">
-
-## Passionate Developer
-
-Building, breaking, and shipping projects.
-
-</td>
-
-<td align="center">
-
-<a href="YOUR_PORTFOLIO">Portfolio</a> •
-<a href="YOUR_LINKEDIN">LinkedIn</a> •
-<a href="https://leetcode.com/u/Mathely_27/">LeetCode</a>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-I enjoy building software that solves real problems and helps me learn by doing.
-
-Currently focused on backend development, Linux, cybersecurity, hackathons, open source, and strengthening my problem-solving skills through consistent practice.
-
-I'm always looking for opportunities to build, collaborate, and improve.
-
-<br>
-
-## Tech Stack ⚙️
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python" height="34"/>
-<img src="https://skillicons.dev/icons?i=java" height="34"/>
-<img src="https://skillicons.dev/icons?i=js" height="34"/>
-<img src="https://skillicons.dev/icons?i=html" height="34"/>
-<img src="https://skillicons.dev/icons?i=css" height="34"/>
-<img src="https://skillicons.dev/icons?i=nodejs" height="34"/>
-<img src="https://skillicons.dev/icons?i=express" height="34"/>
-<img src="https://skillicons.dev/icons?i=git" height="34"/>
-<img src="https://skillicons.dev/icons?i=github" height="34"/>
-<img src="https://skillicons.dev/icons?i=linux" height="34"/>
-<img src="https://skillicons.dev/icons?i=mongodb" height="34"/>
-<img src="https://skillicons.dev/icons?i=vscode" height="34"/>
-
-</p>
-
-<br>
-
-## Currently
-
-- Building personal projects
-- Participating in hackathons
-- Exploring backend development
-- Learning cybersecurity with Kali Linux
-- Solving problems on LeetCode
+[Portfolio](#) · [LinkedIn](#) · [LeetCode](https://leetcode.com/u/Mathely_27/)
 
 ---
 
-<div align="center">
+I build **real-world projects to learn backend development, cybersecurity, and open-source tools.**
 
-### Show some ❤️
+- ► Creator of [GitHub SVG README Card Generator](#) · auto-generates profile cards with backend integration
+- ► Built a self-made learning website using HTML, CSS, and JavaScript from scratch
+- ► Built a **Text Encryption Tool** · exploring cryptography fundamentals through code
+- ► **100+ LeetCode problems solved** · consistent daily practice on DSA
+- ► Actively participating in **hackathons** · building under pressure, shipping fast
+- ► Exploring **Ethical Hacking** with Kali Linux · CTFs and security tooling
 
-If you like my work, consider starring one of my repositories.
+Currently building: more projects, deeper Linux skills, and my first open-source contribution.
 
-</div>
+---
+
+**Tech Stack ⚙️**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
