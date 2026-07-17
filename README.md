@@ -8,8 +8,8 @@ I build **real-world projects to learn backend development, cybersecurity, and o
 
 - ► Creator of [GitHub SVG README Card Generator](https://gitstatcard.vercel.app/) &nbsp;·&nbsp; auto-generates profile cards with backend integration
 - ► Built [Text Encryption Tool](https://text-encryptor-one.vercel.app/) &nbsp;·&nbsp; implementing cryptographic algorithms from scratch in Python
-- ► Built [Hackathon Project — Investing Fear](https://feargon.vercel.app/#/) &nbsp;·&nbsp; tried solving investment anxiety for first time investors.
-- ► Built [An AI Desktop Assistant - Friday Desktop](#) &nbsp;·&nbsp; 
+- ► Built [Hackathon Project — Investing Fear](https://feargon.vercel.app/#/) &nbsp;·&nbsp; tried solving investment anxiety for first time investors
+- ► Built [An AI Desktop Assistant - Friday Desktop](#) &nbsp;·&nbsp; a conversational AI assistant for desktop
 - ► **100+ LeetCode problems solved** &nbsp;·&nbsp; consistent daily practice on data structures and algorithms
 - ► Actively participating in **hackathons** &nbsp;·&nbsp; building under pressure, shipping fast
 - ► Exploring **Ethical Hacking** with Kali Linux &nbsp;·&nbsp; CTFs and security tooling
