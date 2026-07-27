@@ -38,4 +38,4 @@ Currently building: more projects, deeper Linux skills, and my first open-source
 
 ---
 
-![GitHub Stats Card](https://gitstatcard.vercel.app/api/card/mathely27)
+![GitHub Stats Card](https://gitstatcard.vercel.app/api/card/mathely27?theme=github-cyber-center)
