@@ -15,7 +15,7 @@ I build **real-world projects to learn backend development, cybersecurity, and o
 - ► Actively participating in **hackathons** &nbsp;·&nbsp; building under pressure, shipping fast
 - ► Exploring **Ethical Hacking** with Kali Linux &nbsp;·&nbsp; CTFs and security tooling
 
-Currently building: more projects, deeper Linux skills, and my first open-source contribution.
+Currently building: more projects, deeper Linux skills, and my first open-source contribution
 
 ---
 
