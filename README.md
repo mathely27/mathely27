@@ -1,5 +1,202 @@
 <div align="center">
 
+```
+███╗   ███╗ █████╗ ████████╗██╗  ██╗███████╗██╗  ██╗   ██╗
+████╗ ████║██╔══██╗╚══██╔══╝██║  ██║██╔════╝██║  ╚██╗ ██╔╝
+██╔████╔██║███████║   ██║   ███████║█████╗  ██║   ╚████╔╝
+██║╚██╔╝██║██╔══██║   ██║   ██╔══██║██╔══╝  ██║    ╚██╔╝
+██║ ╚═╝ ██║██║  ██║   ██║   ██║  ██║███████╗███████╗██║
+╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝
+```
+
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=3000&pause=800&color=9D6BFF&center=true&vCenter=true&width=500&lines=CSE+Student.+Builder.+Hacker.;I+break+things+to+understand+them.;Then+I+ship+them.;Building+in+public+%E2%80%94+always+learning." alt="typing" />
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## `~/whoami`
+
+```js
+const mathely = {
+  name     : "Mathely",
+  handle   : "@mathely27",
+  stack    : ["Python", "JavaScript", "Java", "C", "Node.js", "MongoDB"],
+  systems  : ["Linux", "Kali Linux", "Bash"],
+  obsessed : ["Cybersecurity", "Backend Systems", "Open Source"],
+  currently: "Building more. Breaking more. Learning daily.",
+  leetcode : "100+ problems solved — and counting",
+};
+```
+
+<br/>
+
+---
+
+<br/>
+
+## `~/projects`
+
+> *Every card below is a shipped thing. Click to visit.*
+
+<br/>
+
+### ◈ &nbsp;[GitHub SVG README Card Generator](https://your-link-here.com)
+
+<table>
+  <tr>
+    <td width="55%">
+      <img src="https://dummyimage.com/700x380/0d0d1a/9D6BFF.png&text=SVG+Card+Generator" width="100%" style="border-radius:10px" />
+    </td>
+    <td width="45%" valign="middle">
+      <p><strong>Drop a GitHub username. Get a profile card — instantly.</strong></p>
+      <p>Custom SVG generation with live GitHub API integration. No frontend frameworks. Pure backend engineering.</p>
+      <br/>
+      <code>Node.js</code> &nbsp; <code>GitHub API</code> &nbsp; <code>SVG</code>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+### ◈ &nbsp;[Text Encryption Tool](https://your-link-here.com)
+
+<table>
+  <tr>
+    <td width="45%" valign="middle">
+      <p><strong>Cryptographic algorithms. From scratch. In Python.</strong></p>
+      <p>No libraries doing the heavy lifting. AES, Caesar, Vigenère — hand-built, tested, and running live.</p>
+      <br/>
+      <code>Python</code> &nbsp; <code>Cryptography</code> &nbsp; <code>Algorithms</code>
+    </td>
+    <td width="55%">
+      <img src="https://dummyimage.com/700x380/0d1a12/00E5A0.png&text=Text+Encryption+Tool" width="100%" style="border-radius:10px" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+### ◈ &nbsp;[Hackathon — Investing Fear](https://your-link-here.com)
+
+<table>
+  <tr>
+    <td width="55%">
+      <img src="https://dummyimage.com/700x380/1a0d00/FF9500.png&text=Investing+Fear+App" width="100%" style="border-radius:10px" />
+    </td>
+    <td width="45%" valign="middle">
+      <p><strong>Solving investment anxiety. Under hackathon pressure.</strong></p>
+      <p>Built for first-time investors who freeze before their first trade. Ideated, built, and shipped in one sprint.</p>
+      <br/>
+      <code>HTML</code> &nbsp; <code>CSS</code> &nbsp; <code>JavaScript</code>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+### ◈ &nbsp;[Friday — AI Desktop Assistant](https://your-link-here.com)
+
+<table>
+  <tr>
+    <td width="45%" valign="middle">
+      <p><strong>Your own J.A.R.V.I.S. — built from scratch.</strong></p>
+      <p>A conversational AI assistant for the desktop. Voice + text. No wrappers, no shortcuts — engineered from the ground up.</p>
+      <br/>
+      <code>Python</code> &nbsp; <code>AI</code> &nbsp; <code>Desktop</code>
+    </td>
+    <td width="55%">
+      <img src="https://dummyimage.com/700x380/0a1a0a/39FF14.png&text=Friday+AI+Assistant" width="100%" style="border-radius:10px" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+### ◈ &nbsp;[Neumorphic Stopwatch](https://your-link-here.com)
+
+<table>
+  <tr>
+    <td width="55%">
+      <img src="https://dummyimage.com/700x380/1a001a/FF2D7B.png&text=Neumorphic+Stopwatch" width="100%" style="border-radius:10px" />
+    </td>
+    <td width="45%" valign="middle">
+      <p><strong>Zero frameworks. Maximum craft.</strong></p>
+      <p>A neumorphic-design stopwatch with lap tracking — built with pure HTML, CSS, and vanilla JavaScript. Proof that you don't need React for good UI.</p>
+      <br/>
+      <code>HTML</code> &nbsp; <code>CSS</code> &nbsp; <code>JavaScript</code>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+<br/>
+
+## `~/currently`
+
+```
+▸  Deepening Linux & systems knowledge
+▸  Learning offensive security — CTFs, Kali, tooling
+▸  Making my first open-source contribution
+▸  Solving LeetCode daily (100+ and climbing)
+▸  Participating in hackathons — building fast, shipping faster
+```
+
+<br/>
+
+---
+
+<br/>
+
+## `~/stats`
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mathely27&show_icons=true&theme=midnight-purple&border_radius=8&hide_border=true&bg_color=0d0d16&title_color=9D6BFF&icon_color=9D6BFF&text_color=c9d1d9&count_private=true" height="170"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathely27&layout=compact&theme=midnight-purple&border_radius=8&hide_border=true&bg_color=0d0d16&title_color=9D6BFF&text_color=c9d1d9" height="170"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mathely27&theme=midnight-purple&hide_border=true&background=0d0d16&ring=9D6BFF&fire=FF9500&currStreakLabel=9D6BFF" width="65%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/mathely27?theme=dark&font=JetBrains+Mono&ext=heatmap&border_radius=8" width="50%"/>
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+## `~/connect`
+
+<div align="center">
+
+[`Portfolio`](https://your-portfolio.com) &nbsp;·&nbsp; [`LinkedIn`](https://linkedin.com/in/mathely27) &nbsp;·&nbsp; [`LeetCode`](https://leetcode.com/mathely27) &nbsp;·&nbsp; [`mathely27@gmail.com`](mailto:mathely27@gmail.com)
+
+</div>
+
+<br/>
+
+<div align="center">
+  <sub><code>— shipped with intent, not with templates —</code></sub>
+</div><div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%2C%20I'm%20Mathely%20👋&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=CSE%20Student%20%7C%20Builder%20%7C%20Hacker%20(legally%20😄)&descAlignY=55&descSize=18" width="100%"/>
 
 <p align="center">
