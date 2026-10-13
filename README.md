@@ -1,3 +1,4 @@
+
 **CSE Student / Builder.** Coding, breaking things, and shipping projects.
 
 [Portfolio](#) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/mathely-mittal-b284143b9/) &nbsp;·&nbsp; [LeetCode](https://leetcode.com/u/Mathely_27/)
@@ -39,3 +40,63 @@ Currently building: more projects, deeper Linux skills, and my first open-source
 ---
 
 ![GitHub Stats Card](https://gitstatcard.vercel.app/api/card/mathely27?theme=github-cyber-center)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div align="center">
+
+<br>
+
+# mathely
+
+<br>
+
+software engineer in the making.
+
+<br>
+
+<sub>
+building things out of curiosity.<br>
+figuring out the rest along the way.
+</sub>
+
+<br><br>
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+<br>
+
+<sub>DEVELOPMENT &nbsp; · &nbsp; AI &nbsp; · &nbsp; OPEN SOURCE</sub>
+
+<br><br>
+
+</div>
+
+### a little about me
+
+Computer Science student interested in software, AI, and building things that actually work.
+
+Currently learning, experimenting, and turning ideas into projects.
+
+<br>
+
+<div align="center">
+
+<sub>less noise. more substance.</sub>
+
+</div>
