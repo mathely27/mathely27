@@ -138,43 +138,67 @@ def hero(theme, avatar):
     # stack grid
     tw, gap, cols = 80, 8, 5
     gx, gy = 446, 188
-    rnd = random.Random(21)
+    rnd = random.Random(42)
     tiles = []
     for i, (sym, label, key) in enumerate(STACK):
         col, row = i % cols, i // cols
         x, y = gx + col * (tw + gap), gy + row * (tw + gap)
-        d = rnd.uniform(8, 16)          # each tile has its own period → feels random
+        d = rnd.uniform(8, 15)          # each tile has independent period
         delay = -rnd.uniform(0, d)
         brand = BRAND.get(key, t["fg"])
-        a  = f'style="animation-duration:{d:.1f}s;animation-delay:{delay:.1f}s"'
-        ab = f'style="animation-duration:{d:.1f}s;animation-delay:{delay:.1f}s;--brand:{brand}"'
-        # coloured glow overlay – same timing as the icon flash
-        glow = (f'<rect class="glow" {ab} fill="{brand}" fill-opacity="0.14" '
+        anim = f'style="animation-duration:{d:.1f}s;animation-delay:{delay:.1f}s"'
+
+        # glowing border & background overlay on activation
+        glow = (f'<rect class="glow" {anim} fill="{brand}" fill-opacity="0.14" '
+                f'stroke="{brand}" stroke-width="1.5" '
                 f'x="{x}" y="{y}" width="{tw}" height="{tw}" rx="14"/>')
-        icon = (f'<g class="ico" {ab} transform="translate({x + tw / 2 - 17},{y + 14}) scale(1.42)">'
-                f'<path d="{ICONS[key]}" fill="currentColor"/></g>')
+
+        # 32x32 brand icon centered in tile (replaces 24x24 simple-icon scaled 1.333)
+        # Position transform is on outer <g> so CSS opacity animation NEVER moves it
+        ix = x + (tw - 32) / 2
+        iy = y + 25
+        icon = (f'<g transform="translate({ix:.1f},{iy:.1f}) scale(1.333)">'
+                f'<path class="ico" {anim} d="{ICONS[key]}" fill="{brand}"/>'
+                f'</g>')
+
         tiles.append(
             f'<rect x="{x}" y="{y}" width="{tw}" height="{tw}" rx="14" fill="{t["fg"]}" fill-opacity="{t["tile_op"]}" '
             f'stroke="{t["line"]}" stroke-width="1.5"/>'
             f'{glow}'
             f'<text x="{x + 10}" y="{y + 18}" font-family="{MONO}" font-size="11" fill="{t["muted"]}">{i + 1}</text>'
-            f'<text class="sym" {a} x="{x + tw / 2}" y="{y + 49}" text-anchor="middle" font-family="{MONO}" '
-            f'font-weight="700" font-size="30" fill="{t["fg"]}">{sym}</text>{icon}'
+            f'<text class="sym" {anim} x="{x + tw / 2}" y="{y + 49}" text-anchor="middle" font-family="{MONO}" '
+            f'font-weight="700" font-size="30" fill="{t["fg"]}">{sym}</text>'
+            f'{icon}'
             f'<text x="{x + tw / 2}" y="{y + 69}" text-anchor="middle" font-family="{SANS}" font-size="11.5" fill="{t["muted"]}">{escape(label)}</text>')
 
     css = f"""
-@keyframes sym{{0%,79%{{opacity:1;transform:translateX(0)}}80%{{opacity:.5;transform:translateX(-4px)}}
- 81%{{opacity:0;transform:translateX(3px)}}82%,96%{{opacity:0}}97%{{opacity:.6;transform:translateX(3px)}}98%,100%{{opacity:1;transform:translateX(0)}}}}
-@keyframes ico{{0%,79%{{opacity:0}}80%{{opacity:0}}
- 81%{{opacity:.8;transform:translateX(3px);color:var(--brand,{t['fg']})}}
- 82%{{opacity:1;transform:translateX(-2px);color:var(--brand,{t['fg']})}}
- 83%,95%{{opacity:1;transform:translateX(0);color:var(--brand,{t['fg']})}}
- 96%{{opacity:.5;transform:translateX(-3px);color:var(--brand,{t['fg']})}}
- 97%,100%{{opacity:0;color:{t['fg']}}}}}
-@keyframes glow{{0%,79%{{opacity:0}}81%,95%{{opacity:1}}97%,100%{{opacity:0}}}}
-.sym,.ico,.glow{{animation-iteration-count:infinite;animation-timing-function:linear;transform-box:fill-box}}
-.sym{{animation-name:sym}}.ico{{animation-name:ico;opacity:0;color:{t['fg']}}}.glow{{animation-name:glow;opacity:0}}
-@media (prefers-reduced-motion:reduce){{.sym,.ico,.glow{{animation:none}}.ico{{opacity:0}}}}
+@keyframes sym {{
+  0%, 82% {{ opacity: 1; }}
+  85%, 96% {{ opacity: 0; }}
+  99%, 100% {{ opacity: 1; }}
+}}
+@keyframes ico {{
+  0%, 82% {{ opacity: 0; }}
+  85%, 96% {{ opacity: 1; }}
+  99%, 100% {{ opacity: 0; }}
+}}
+@keyframes glow {{
+  0%, 82% {{ opacity: 0; }}
+  85%, 96% {{ opacity: 1; }}
+  99%, 100% {{ opacity: 0; }}
+}}
+.sym, .ico, .glow {{
+  animation-iteration-count: infinite;
+  animation-timing-function: ease-in-out;
+}}
+.sym {{ animation-name: sym; opacity: 1; }}
+.ico {{ animation-name: ico; opacity: 0; }}
+.glow {{ animation-name: glow; opacity: 0; }}
+@media (prefers-reduced-motion: reduce) {{
+  .sym, .ico, .glow {{ animation: none; }}
+  .sym {{ opacity: 1; }}
+  .ico, .glow {{ opacity: 0; }}
+}}
 """
     body = f"""<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}">
 <style>{css}</style><defs>{defs}</defs>
