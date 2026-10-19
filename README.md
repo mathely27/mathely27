@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg?v=4">
-  <img src="assets/hero-light.svg?v=4" width="900" alt="Mathely — Computer Science Student, Chitkara University">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg?v=5">
+  <img src="assets/hero-light.svg?v=5" width="900" alt="Mathely — Computer Science Student, Chitkara University">
 </picture>
 
 <picture>

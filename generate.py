@@ -214,8 +214,7 @@ def hero(theme, avatar):
 <!-- Left column content -->
 <g transform="translate(42, 166)">
   <rect x="0" y="0" width="226" height="28" rx="14" fill="{t['fg']}" fill-opacity="0.08" stroke="{t['line']}" stroke-width="1.2"/>
-  <circle cx="14" cy="14" r="3.5" fill="#39d353"/>
-  <text x="26" y="19" font-family="{MONO}" font-size="11.5" font-weight="700" letter-spacing="1.2" fill="{t['fg']}">COMPUTER SCIENCE STUDENT</text>
+  <text x="113" y="19" text-anchor="middle" font-family="{MONO}" font-size="11.5" font-weight="700" letter-spacing="1.2" fill="{t['fg']}">COMPUTER SCIENCE STUDENT</text>
 </g>
 <text x="44" y="224" font-family="{MONO}" font-size="13" font-weight="700" letter-spacing="3" fill="{t['muted']}">{escape(COLLEGE)}</text>
 <text x="44" y="272" font-family="{SANS}" font-size="16" fill="{t['fg']}" fill-opacity="0.88">{escape(BIO[0])}</text>
