@@ -22,7 +22,8 @@ from icons import ICONS
 # ───────────────────────── CONFIG (edit these) ─────────────────────────
 USER = "mathely27"
 NAME = "Mathely"
-SUBTITLE = "cs student · india"
+ROLE = "computer science student"
+COLLEGE = "CHITKARA UNIVERSITY"
 BIO = ["i build AI agents, macOS tools,", "and full-stack web apps."]
 LINKEDIN = "https://linkedin.com/in/mathely27"
 LEETCODE = "https://leetcode.com/mathely27"
@@ -58,15 +59,15 @@ RED, CYAN = "#ff0000", "#00ffff"
 
 
 # ───────────────────────── glitch text (SMIL, no JS) ─────────────────────────
-def glitch_name(text, x, y, size, fg, seed=7, dur=6.0, steps=48):
+def glitch_name(text, x, y, size, fg, seed=7, dur=2.6, steps=48):
     """Slices-mode glitch: two clipped, shifted, coloured copies that jolt in bursts."""
     rnd = random.Random(seed)
     top, span = y - size * 0.82, size * 1.08
-    width = size * len(text) * 0.75
+    width = size * len(text) * 0.78
 
     # active windows (in steps) – calm most of the time, then a short burst
     active = set()
-    for start, length in [(30, rnd.randint(4, 6)), (39, rnd.randint(2, 4))]:
+    for start, length in [(26, rnd.randint(4, 6)), (36, rnd.randint(3, 5))]:
         active.update(range(start, start + length))
 
     kt = ";".join(f"{i / steps:.4f}" for i in range(steps))
@@ -90,7 +91,7 @@ def glitch_name(text, x, y, size, fg, seed=7, dur=6.0, steps=48):
         return (f'<animate attributeName="{attr}" values="{v}" keyTimes="{kt}" '
                 f'calcMode="discrete" dur="{dur}s" repeatCount="indefinite"{extra}/>')
 
-    style = (f'font-family="{SANS}" font-weight="800" font-size="{size}" letter-spacing="-3" '
+    style = (f'font-family="{SANS}" font-weight="900" font-size="{size}" letter-spacing="-1.5" '
              f'x="{x}" y="{y}"')
     out = [f'<text {style} fill="{fg}">{escape(text)}</text>']
     defs = []
@@ -124,7 +125,7 @@ def avatar_data_uri():
 def hero(theme, avatar):
     t = THEMES[theme]
     W, H = 900, 470
-    defs, name_svg = glitch_name(NAME, 38, 205, 84, t["fg"])
+    defs, name_svg = glitch_name(NAME, 40, 155, 96, t["fg"], dur=2.6)
 
     # avatar (top right, circled)
     cx, cy, r = 826, 68, 50
@@ -203,10 +204,11 @@ def hero(theme, avatar):
     body = f"""<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}">
 <style>{css}</style><defs>{defs}</defs>
 {name_svg}
-<text x="44" y="252" font-family="{SANS}" font-size="17.5" fill="{t['fg']}">{escape(SUBTITLE)}</text>
-<text x="44" y="298" font-family="{SANS}" font-size="16.5" fill="{t['muted']}">{escape(BIO[0])}</text>
-<text x="44" y="324" font-family="{SANS}" font-size="16.5" fill="{t['muted']}">{escape(BIO[1])}</text>
-<line x1="426" y1="150" x2="426" y2="446" stroke="{t['line']}" stroke-width="1.5"/>
+<text x="44" y="202" font-family="{SANS}" font-size="18" font-weight="600" fill="{t['fg']}">{escape(ROLE)}</text>
+<text x="44" y="228" font-family="{MONO}" font-size="12.5" font-weight="600" letter-spacing="3" fill="{t['muted']}">{escape(COLLEGE)}</text>
+<text x="44" y="278" font-family="{SANS}" font-size="16" fill="{t['muted']}">{escape(BIO[0])}</text>
+<text x="44" y="304" font-family="{SANS}" font-size="16" fill="{t['muted']}">{escape(BIO[1])}</text>
+<line x1="426" y1="85" x2="426" y2="446" stroke="{t['line']}" stroke-width="1.5"/>
 {avatar_svg}
 <text x="{gx}" y="172" font-family="{MONO}" font-size="13" letter-spacing="5" fill="{t['muted']}">STACK</text>
 {''.join(tiles)}
