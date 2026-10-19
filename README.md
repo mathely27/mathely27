@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <img src="assets/hero-light.svg" width="900" alt="Mathely — cs student, India">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg?v=2">
+  <img src="assets/hero-light.svg?v=2" width="900" alt="Mathely — cs student, India">
 </picture>
 
 <picture>
