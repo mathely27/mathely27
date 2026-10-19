@@ -25,8 +25,8 @@ NAME = "Mathely"
 ROLE = "computer science student"
 COLLEGE = "CHITKARA UNIVERSITY"
 BIO = ["i build AI agents, macOS tools,", "and full-stack web apps."]
-LINKEDIN = "https://linkedin.com/in/mathely27"
-LEETCODE = "https://leetcode.com/mathely27"
+LINKEDIN = "https://www.linkedin.com/in/mathely-mittal-b284143b9/"
+LEETCODE = "https://leetcode.com/u/Mathely_27/"
 EMAIL = "mailto:mathely27@gmail.com"
 
 # (big symbol, label, icon key)
@@ -125,10 +125,10 @@ def avatar_data_uri():
 def hero(theme, avatar):
     t = THEMES[theme]
     W, H = 900, 470
-    defs, name_svg = glitch_name(NAME, 40, 155, 96, t["fg"], dur=2.6)
+    defs, name_svg = glitch_name(NAME, 42, 98, 88, t["fg"], dur=2.6)
 
-    # avatar (top right, circled)
-    cx, cy, r = 826, 68, 50
+    # avatar (top right, circled) - enlarged size
+    cx, cy, r = 818, 68, 58
     if avatar:
         av = f'<image href="{avatar}" x="{cx - r}" y="{cy - r}" width="{2 * r}" height="{2 * r}" clip-path="url(#av)" preserveAspectRatio="xMidYMid slice"/>'
     else:
@@ -138,7 +138,7 @@ def hero(theme, avatar):
 
     # stack grid
     tw, gap, cols = 80, 8, 5
-    gx, gy = 446, 188
+    gx, gy = 446, 184
     rnd = random.Random(42)
     tiles = []
     for i, (sym, label, key) in enumerate(STACK):
@@ -203,14 +203,26 @@ def hero(theme, avatar):
 """
     body = f"""<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}">
 <style>{css}</style><defs>{defs}</defs>
+<!-- Top header: Mathely + DP -->
 {name_svg}
-<text x="44" y="202" font-family="{SANS}" font-size="18" font-weight="600" fill="{t['fg']}">{escape(ROLE)}</text>
-<text x="44" y="228" font-family="{MONO}" font-size="12.5" font-weight="600" letter-spacing="3" fill="{t['muted']}">{escape(COLLEGE)}</text>
-<text x="44" y="278" font-family="{SANS}" font-size="16" fill="{t['muted']}">{escape(BIO[0])}</text>
-<text x="44" y="304" font-family="{SANS}" font-size="16" fill="{t['muted']}">{escape(BIO[1])}</text>
-<line x1="426" y1="85" x2="426" y2="446" stroke="{t['line']}" stroke-width="1.5"/>
 {avatar_svg}
-<text x="{gx}" y="172" font-family="{MONO}" font-size="13" letter-spacing="5" fill="{t['muted']}">STACK</text>
+
+<!-- Dividers below Mathely and DP -->
+<line x1="42" y1="142" x2="858" y2="142" stroke="{t['line']}" stroke-width="1.2" stroke-opacity="0.45"/>
+<line x1="426" y1="142" x2="426" y2="446" stroke="{t['line']}" stroke-width="1.2" stroke-opacity="0.45"/>
+
+<!-- Left column content -->
+<g transform="translate(42, 166)">
+  <rect x="0" y="0" width="226" height="28" rx="14" fill="{t['fg']}" fill-opacity="0.08" stroke="{t['line']}" stroke-width="1.2"/>
+  <circle cx="14" cy="14" r="3.5" fill="#39d353"/>
+  <text x="26" y="19" font-family="{MONO}" font-size="11.5" font-weight="700" letter-spacing="1.2" fill="{t['fg']}">COMPUTER SCIENCE STUDENT</text>
+</g>
+<text x="44" y="224" font-family="{MONO}" font-size="13" font-weight="700" letter-spacing="3" fill="{t['muted']}">{escape(COLLEGE)}</text>
+<text x="44" y="272" font-family="{SANS}" font-size="16" fill="{t['fg']}" fill-opacity="0.88">{escape(BIO[0])}</text>
+<text x="44" y="298" font-family="{SANS}" font-size="16" fill="{t['fg']}" fill-opacity="0.88">{escape(BIO[1])}</text>
+
+<!-- Right column: Stack -->
+<text x="{gx}" y="168" font-family="{MONO}" font-size="13" letter-spacing="5" fill="{t['muted']}">STACK</text>
 {''.join(tiles)}
 </svg>"""
     return body
@@ -278,14 +290,17 @@ def contrib(theme, total, weeks):
 def button(theme, label, key):
     t = THEMES[theme]
     W, H = 190, 52
+    link = LINKEDIN if key == "In" else (LEETCODE if key == "Lc" else EMAIL)
     if key == "mail":
         icon = (f'<g transform="translate(24,15)" fill="none" stroke="{t["muted"]}" stroke-width="1.8" stroke-linejoin="round">'
                 f'<rect x="0" y="2" width="22" height="16" rx="3"/><path d="M1 4l10 8 10-8"/></g>')
     else:
         icon = f'<g transform="translate(24,14)"><path transform="scale(1.0)" d="{ICONS[key]}" fill="{t["muted"]}"/></g>'
     return f"""<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}">
+<a href="{link}" target="_blank">
 <rect x="1.5" y="1.5" width="{W - 3}" height="{H - 3}" rx="{(H - 3) / 2}" fill="none" stroke="{t['line']}" stroke-width="1.5"/>
-{icon}<text x="62" y="31.5" font-family="{MONO}" font-size="16" fill="{t['muted']}">{label}</text></svg>"""
+{icon}<text x="62" y="31.5" font-family="{MONO}" font-size="16" fill="{t['muted']}">{label}</text>
+</a></svg>"""
 
 
 # ───────────────────────── main ─────────────────────────
