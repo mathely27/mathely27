@@ -313,7 +313,9 @@ if __name__ == "__main__":
     avatar = avatar_data_uri()
     total, weeks = fetch_calendar()
     for th in THEMES:
-        write(f"assets/hero-{th}.svg", hero(th, avatar))
+        h = hero(th, avatar)
+        write(f"assets/hero-{th}.svg", h)
+        write(f"assets/header-{th}.svg", h)
         write(f"assets/contrib-{th}.svg", contrib(th, total, weeks))
         for label, key in (("LinkedIn", "In"), ("LeetCode", "Lc"), ("Email", "mail")):
             write(f"assets/btn-{label.lower()}-{th}.svg", button(th, label, key))
